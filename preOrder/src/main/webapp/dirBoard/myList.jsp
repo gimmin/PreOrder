@@ -6,7 +6,7 @@
 	<div id="mainRight">
 		<div id="rightWrap">
 			<h1>
-				<b>Time Line</b>
+				<b>김민김민김민김민김민김민김민김민김민김민김민김민김민김민김민김민김민김민김민</b>
 			</h1>
 			<form action="writeBoard" method="post" enctype="multipart/form-data">
 				<textarea rows="8" cols="65" name="contents" id="contents"></textarea>

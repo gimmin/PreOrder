@@ -30,6 +30,7 @@
 			</label>
 		</p>
 		<input type="submit" value="회원가입" class="btn"/>
+		
 	</form:form>
 	</div></div>
 </div>

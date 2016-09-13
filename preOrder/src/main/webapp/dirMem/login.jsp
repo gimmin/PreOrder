@@ -47,6 +47,7 @@
 						</label>
 					</p>
 					<input type="submit" value="로 그 인">
+					<input type="submit" value="회원가입">
 				</form:form>
 			</div>
 		</div>
